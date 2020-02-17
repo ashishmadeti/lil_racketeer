@@ -5,3 +5,5 @@
 
 
 (atom? (quote ()))
+(atom? 'asd)
+(atom? 299)
